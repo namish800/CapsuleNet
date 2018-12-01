@@ -17,3 +17,8 @@ git clone https://github.com/namish800/CapsuleNet.git
 - Pandas
 
 - Keras  
+
+3. If not, then run the following command.
+```
+pip install -r requirements.txt
+```
