@@ -10,7 +10,7 @@ A capsule is a group of neurons whose activity vector represents the instantiati
 ```
 git clone https://github.com/namish800/CapsuleNet.git
 ```
-2. Make sure you have all the dependencies installed
-*Numpy
-*Keras
-*Pandas
+2. Make sure you have all the dependencies installed  
+-Numpy  
+-Pandas  
+-Keras  
