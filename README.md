@@ -12,8 +12,8 @@ git clone https://github.com/namish800/CapsuleNet.git
 ```
 2. Make sure you have all the dependencies installed.
 
--Numpy
+- Numpy
 
--Pandas
+- Pandas
 
--Keras  
+- Keras  
